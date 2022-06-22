@@ -1,0 +1,31 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+*.out
+go.work
+/vendor/
+/Godeps/
+
+# Temporary files
+tmp/
+*.tmp
+
+# Backup files
+bak/
+*.bak
+
+# IDE
+.vscode
+.history/
+.idea
+
+# Misc
+.DS_Store
+*~
+*.workspace
